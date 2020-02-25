@@ -17,9 +17,12 @@ header {
 }
 
 #contenido{
-  padding-top: 80px;
+  padding-top: 120px;
 }
 
+.logo{
+  width: 25px;
+}
 nav {
   float: left; /* Desplazamos el nav hacia la izquierda */
 }
