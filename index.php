@@ -3,10 +3,22 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="style.css">
         <title>Salvar el Pangolín</title>
     </head>
     <body>
-        <?php include 'menu.php';?>
-        
+        <?php require_once 'menu.php';?>
+        <div id="contenido">
+            <h1>Salvar al pangolín</h1>
+            <div>
+                El pangolín es una especie en peligro de extincion
+            </div>
+            <div>
+                <div></div>
+                <img class="img" id="pangolin1" src="/img/pangolin1.jpeg" alt="Imagen de un pangolín">
+                <img class="img" id="pangolin2" src="/img/pangolin2.jpg" alt="Imagen de un pangolín">
+                <img class="img" id="pangolin3" src="/img/pangolin3.jpg" alt="Imagen de un pangolín">
+            </div>
+        </div>
     </body>
 </html>

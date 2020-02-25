@@ -6,9 +6,6 @@ CSS
 }
 
 /*Agregamos margenes inferiores a los parrafos*/
-p {
-  margin-bottom: 20px;
-}
 header {
   background:darkgreen;
   width: 100%;
@@ -18,6 +15,7 @@ header {
 
 #contenido{
   padding-top: 80px;
+  padding-left: 10px;
 }
 
 nav {
@@ -44,4 +42,19 @@ nav ul li a {
  
 nav ul li:hover {
   background: #3ead47;
+}
+
+.img{
+  width: 200px;
+  height: 150px;
+}
+
+#pangolin1:hover{
+  animation: moveRight 2s;
+}
+
+@keyframes moveRight {
+  0%   {left:0px;}
+  50%  {left:100px;}
+  100% {left:100px; width:200px; height:200px}
 }
