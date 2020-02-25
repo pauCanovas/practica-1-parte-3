@@ -10,6 +10,7 @@ p {
   margin-bottom: 20px;
 }
 header {
+  background: rgba(33, 17, 88, 0.9);
   width: 100%;
   position: fixed;
   z-index: 100;
