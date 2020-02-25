@@ -7,6 +7,8 @@
     </head>
     <body>
         <?php include 'menu.php';?>
-        
+        <div id="contenido">
+            <a title="Los Tejos" href="http://www.lostejos.com"><img src="img/document-logo.png" alt="Los Tejos" /></a>
+        </div>
     </body>
 </html>
