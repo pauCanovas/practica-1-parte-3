@@ -3,36 +3,54 @@ CSS
 * {
   padding: 0;
   margin: 0;
+  
+}
+
+body {
+  background-color: lightgrey;
 }
 
 /*Agregamos margenes inferiores a los parrafos*/
 header {
   background:darkgreen;
-  width: 100%;
+  width: 79.15%;
   position: fixed;
   z-index: 100;
+}
+
+#wrapper {
+  max-width: 80%;
+  margin: 0 auto;
+  background-color: white;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 #contenido{
   padding-top: 80px;
   padding-left: 10px;
   padding-top: 120px;
+  text-align: center;
 }
 
 .logo{
   width: 25px;
 }
 nav {
+  margin: auto;
   float: left; /* Desplazamos el nav hacia la izquierda */
+  
 }
  
 nav ul {
   list-style: none;
   overflow: hidden; /* Limpiamos errores de float */
+  text-align-last: center;
 }
  
 nav ul li {
   float: left;
+  text-align-last: center;
   font-family: Arial, sans-serif;
   font-size: 16px;
 }
