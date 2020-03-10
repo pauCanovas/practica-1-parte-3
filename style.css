@@ -36,6 +36,14 @@ header {
   padding-left: 10px;
   padding-top: 120px;
   text-align: left;
+  
+}
+#texto div{
+  margin-top: 100px;
+}
+#texto img{
+  margin:10px;
+  float:left;
 }
 
 .logo{
