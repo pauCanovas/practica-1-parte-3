@@ -16,8 +16,12 @@ header {
 #contenido{
   padding-top: 80px;
   padding-left: 10px;
+  padding-top: 120px;
 }
 
+.logo{
+  width: 25px;
+}
 nav {
   float: left; /* Desplazamos el nav hacia la izquierda */
 }
@@ -47,14 +51,14 @@ nav ul li:hover {
 .img{
   width: 200px;
   height: 150px;
+  transition: all 2s
 }
 
 #pangolin1:hover{
-  animation: moveRight 2s;
+  transform: scale(1.5)
 }
 
 @keyframes moveRight {
-  0%   {left:0px;}
-  50%  {left:100px;}
-  100% {left:100px; width:200px; height:200px}
+  0%   {}
+  100% {transform: scale(1.5);}
 }
