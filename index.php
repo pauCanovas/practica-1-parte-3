@@ -11,7 +11,11 @@
         <div id="contenido">
             <h1>Salvar al pangolín</h1>
             <div>
-                El pangolín es una especie en peligro de extincion
+                Sergio Fernández
+                Pau Cánovas
+            </div>
+            <div>
+                El pangolín es una especie en peligro de extinción
             </div>
             <div>
                 <div></div>
