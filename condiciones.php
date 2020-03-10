@@ -6,7 +6,8 @@
         <title>Condiciones</title>
     </head>
     <body>
-        <?php include 'menu.php';?>
-        
+        <div id="wrapper">
+            <?php include 'menu.php';?>
+        </div>
     </body>
 </html>
