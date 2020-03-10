@@ -15,9 +15,9 @@
                     El pangolín es una especie en peligro de extincion
                 </div>
                 <div>
-                    <img class="img" id="pangolin1" src="/img/pangolin1.jpeg" alt="Imagen de un pangolín"/>
-                    <img class="img" id="pangolin2" src="/img/pangolin2.jpg" alt="Imagen de un pangolín"/>
-                    <img class="img" id="pangolin3" src="/img/pangolin3.jpg" alt="Imagen de un pangolín"/>
+                    <img class="img" id="pangolin1" src="img/pangolin1.jpeg" alt="Imagen de un pangolín"/>
+                    <img class="img" id="pangolin2" src="img/pangolin2.jpg" alt="Imagen de un pangolín"/>
+                    <img class="img" id="pangolin3" src="img/pangolin3.jpg" alt="Imagen de un pangolín"/>
                 </div>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/w7JB2gP4gXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
