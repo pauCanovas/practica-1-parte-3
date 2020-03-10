@@ -27,10 +27,15 @@ header {
 }
 
 #contenido{
-  padding-top: 80px;
   padding-left: 10px;
   padding-top: 120px;
   text-align: center;
+}
+
+#texto{
+  padding-left: 10px;
+  padding-top: 120px;
+  text-align: left;
 }
 
 .logo{
@@ -81,5 +86,12 @@ nav ul li:hover {
 
 #pangolin3:hover{
   transform: scale(1.3)
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 

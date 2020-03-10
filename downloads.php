@@ -8,7 +8,7 @@
     <body>
         <div id="wrapper">
             <?php include 'menu.php';?>
-            <div id="contenido">
+            <div id="texto">
                 <ul>
                     <li><a title="Document odt" href="descargas/eigrp.odt"><img class="logo" src="img/document-logo.png" alt="redes" />Redes</a></li>
                     <li><a title="Document pdf" href="descargas/horari.pdf"><img class="logo" src="img/pdf-logo.png" alt="Documento pdf" />Horario DAW</a></li>

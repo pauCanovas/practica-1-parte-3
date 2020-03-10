@@ -8,7 +8,7 @@
     <body>
         <div id="wrapper">
             <?php include 'menu.php';?>
-            <div id="contenido">
+            <div id="texto">
                 <h1>El pangolín, el mamífero más traficado del mundo</h1>
                 <h2>Las entidades conservacionistas alertan del declive de este animal en serio peligro de desaparecer ante el creciente tráfico por el valor de sus escamas</h2>
                 <div>
