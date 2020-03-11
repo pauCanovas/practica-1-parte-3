@@ -9,6 +9,7 @@
         <div id="wrapper">
             <?php include 'menu.php';?>
             <div id="texto">
+                <h1 style="text-align:center">Condiciones legales</h1>
                 <p>
                     1. RESPONSABLE DEL TRATAMIENTO Y DELEGADO DE PROTECCIÓN DE DATOS PERSONALES
 
